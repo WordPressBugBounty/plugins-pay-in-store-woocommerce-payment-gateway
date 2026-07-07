@@ -2,11 +2,11 @@
 Contributors: enartia,g.georgopoulos,georgekapsalakis,akatopodis
 Author URI: https://www.papaki.com
 Tags: ecommerce, woocommerce, payment gateway
-Tested up to: 5.9.0
+Tested up to: 6.8.3
 Requires at least: 4.0
-Version: 1.2.6
-Stable tag: 1.2.4
-WC tested up to: 6.2.0
+Version: 1.3.0
+Stable tag: 1.3.0
+WC tested up to: 10.2.2
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Provides a Pay in Store upon pick up Payment Gateway for Woocommerce.
@@ -15,6 +15,12 @@ Provides a Pay in Store upon pick up Payment Gateway for Woocommerce.
 Provides a Pay in Store upon pick up Payment Gateway for Woocommerce.
 
 == Changelog ==
+
+= 1.3.0 =
+
+Code refactoring.
+Introduced the possibility for Block Editor checkout blocks.
+
 = 1.2.6 =
 Update compatibility with Woocommerce 6.2.0
 = 1.2.5 =
